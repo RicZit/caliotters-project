@@ -1,0 +1,17 @@
+<body>
+
+    <section id="edc">
+      <h1>Firebase Test</h1>
+      <button id="startRsvp">RSVP</button>
+    </section>
+    <hr>
+    <section id="firebaseui-auth-container"></section>
+    </section>
+
+    <hr />
+
+    <section id="firebaseui-auth-container"></section>
+
+
+    <section id="guestbook-container"></section>
+</body>
